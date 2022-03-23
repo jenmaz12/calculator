@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ equalsClick()
+comment11.params=
+comment11.target=void\ reset()
+comment12.params=operation
+comment12.target=void\ calculate(java.lang.String)
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=ke
+comment3.target=void\ handle(javafx.scene.input.KeyEvent)
+comment4.params=text
+comment4.target=void\ buttonClick(java.lang.String)
+comment5.params=input
+comment5.target=boolean\ isNumber(java.lang.String)
+comment6.params=input
+comment6.target=boolean\ isOperator(java.lang.String)
+comment7.params=input
+comment7.target=boolean\ isEquals(java.lang.String)
+comment8.params=text
+comment8.target=void\ numberClick(java.lang.String)
+comment9.params=text
+comment9.target=void\ operatorClick(java.lang.String)
+numComments=13
